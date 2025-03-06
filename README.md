@@ -16,4 +16,4 @@ pgzrun main.py
 
 The objective of the game is to escape from zombies and reach the door to advance through five stages. You start with three lives, and if you lose all of them, the game will restart.
 
-![image](https://github.com/user-attachments/assets/62e2c4ad-02d5-47df-b77e-2394c1bb05b1)
+https://github.com/user-attachments/assets/955cccea-169e-4888-8f7f-25722ed5f1aa
