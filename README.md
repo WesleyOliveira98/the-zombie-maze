@@ -1,6 +1,6 @@
 # The Zombie Maze
 
-This game was developed only with [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html). Assets are provided by [Kenney](https://kenney.nl/assets), [Flaticon](https://www.flaticon.com/) and [No Copyright Audio Library](https://www.youtube.com/@NoCopyright-AudioLibrary).
+This game was developed only with [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html). Assets are provided by [Kenney](https://kenney.nl/assets), [Flaticon](https://www.flaticon.com/), [No Copyright Audio Library](https://www.youtube.com/@NoCopyright-AudioLibrary) and [Google Fonts](https://fonts.google.com/).
 
 ## Getting Started
 
